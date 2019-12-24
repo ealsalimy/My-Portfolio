@@ -104,7 +104,6 @@ h1, h3 {
 
 .certifcations {
   grid-area: certifcations;
-  background-color: green;
   width: 100vw;
   height: 100vh;
   background: url(https://images.pexels.com/photos/257930/pexels-photo-257930.jpeg)no-repeat;
