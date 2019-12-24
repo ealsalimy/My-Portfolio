@@ -48,11 +48,8 @@ h1, h3 {
   grid-template-areas:
   "sumbox"
   "arrow";
-  background-color: red;
   width: 100vw;
   height: 100vh;
-  /* object-position: center; */
-
 }
 
 .summary  video {
