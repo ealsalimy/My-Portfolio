@@ -196,7 +196,6 @@ h1, h3 {
 
 .projects {
   grid-area: projects;
-  background-color: yellow;
   width: 100vw;
   height: 100vh;
   background-color: #f5f5dc;
